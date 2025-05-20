@@ -1,6 +1,6 @@
 # 💳 Credit Card Fraud Detection
 
-A machine learning project designed to detect fraudulent credit card transactions using real-world anonymized data. This capstone project was developed to demonstrate the application of data science and machine learning techniques in identifying patterns associated with fraud.
+A machine learning project designed to detect fraudulent credit card transactions using real-world anonymized data. This project was developed to demonstrate the application of data science and machine learning techniques in identifying patterns associated with fraud.
 
 ## 📌 Project Overview
 
